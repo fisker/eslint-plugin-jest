@@ -2061,10 +2061,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@schemastore/package@npm:^0.0.6":
-  version: 0.0.6
-  resolution: "@schemastore/package@npm:0.0.6"
-  checksum: f6cf21d690d93cb0c7c5dffe0d930dd3d8dc3e5ca2ed5b439dd672c94d3516460f06c03693696762f5052a4dca48356572cd2623dfe5bf5dc8597422edb4a373
+"@schemastore/package@npm:^0.0.10":
+  version: 0.0.10
+  resolution: "@schemastore/package@npm:0.0.10"
+  checksum: fcbe27e96e5a573b8e85970a89d56ea90087194dfced6c8f0d76a91a9b6a521ec739ae39d765ed9626f0cd235348352abcdd7c8022db67e3aa6361a3822d28ff
   languageName: node
   linkType: hard
 
@@ -4474,7 +4474,7 @@ __metadata:
     "@babel/preset-typescript": ^7.3.3
     "@commitlint/cli": ^12.0.0
     "@commitlint/config-conventional": ^12.0.0
-    "@schemastore/package": ^0.0.6
+    "@schemastore/package": ^0.0.10
     "@semantic-release/changelog": ^5.0.1
     "@semantic-release/git": ^9.0.0
     "@types/dedent": ^0.7.0
